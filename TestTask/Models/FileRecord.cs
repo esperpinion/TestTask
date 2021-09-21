@@ -1,4 +1,4 @@
-﻿namespace TestTask
+﻿namespace TestTask.Models
 {
     public class FileRecord
     {
